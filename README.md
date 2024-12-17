@@ -1,4 +1,4 @@
-# Historical_CB_Keyrate
+# Historical CB Keyrate
 
 Программа создана в рамках учебного задания.
 
